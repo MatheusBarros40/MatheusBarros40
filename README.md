@@ -1,6 +1,6 @@
 - 👋 I’m @MatheusBarros40
 - 👀 I’m interested in learning more.
-- 🌱 I’m currently learning ...ANGULAR, REACT, MONGODB, HTML,CSS,JAVASCRIPT ...
+- 🌱 I’m currently learning ...ANGULAR, POSTGRESQL, JAVA, MONGODB, HTML,CSS,JAVASCRIPT ...
 - 💞️ I’m to collaborate on Ernst & Young
 - 📫 How to reach me: maheus40melo@gmail.com
 
