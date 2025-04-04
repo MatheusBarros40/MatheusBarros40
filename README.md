@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -34,6 +35,8 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet)  
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-68217A?style=flat&logo=nuget)
 
 ### 🗄️ Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
